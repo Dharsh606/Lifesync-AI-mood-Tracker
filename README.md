@@ -26,7 +26,7 @@ It helps you log your daily feelings, reflect through journaling, and get smart 
 
 | Main UI | Mood Chart | History Log |
 |---------|------------|--------------|
-| ![](demo/main.png) | ![](demo/chart.png) | ![](demo/log.png) | ![](demo/emojis.png) |
+| ![](demo/main.png) | ![](demo/chart.png) | ![](demo/log.png) | ![](demo/emojis.png) | ![](demo/streak.png) |
 
 
 ## 🛠️ Installation & Run
