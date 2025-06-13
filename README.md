@@ -54,9 +54,7 @@ No internet or cloud storage — your thoughts stay secure and private on your m
 ## 👤 Author
 
 Made with ❤️ by **Dharshan V**  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dharshanvreddy
-
-/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dharshanvreddy/)
 
 ---
 
