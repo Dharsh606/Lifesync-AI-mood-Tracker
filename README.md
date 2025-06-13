@@ -22,6 +22,12 @@ It helps you log your daily feelings, reflect through journaling, and get smart 
 - 🧠 Clean, intuitive PyQt5 interface
 
 ---
+## 🖼️ Screenshots
+
+| Main UI | Mood Chart | History Log |
+|---------|------------|--------------|
+| ![](demo/main.png) | ![](demo/chart.png) | ![](demo/log.png) | ![](demo/emojis.png) |
+
 
 ## 🛠️ Installation & Run
 
